@@ -1,0 +1,22 @@
+{
+  "name": "tr-simple-todo",
+  "version": "1.0.1",
+  "description": "Simple Todo List With help of inquirer",
+  "main": "main.js",
+  "type": "module",
+  "bin": {
+    "tr-simple-todo": "main.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "todo",
+    "tr-todo"
+  ],
+  "author": "M Talha",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  }
+}
